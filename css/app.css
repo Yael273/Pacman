@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: antiquewhite;
+  color: rgb(0, 0, 0);
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+/* .formLine {
+  margin:10px;
+  padding:10px;
+  background-color: cornflowerblue;
+} */
+
+button {
+  background-color: rgb(157, 76, 38);
+  color: blanchedalmond;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+
+img {
+  height: 30px;
+}
+
+table{
+  margin: auto;
+}
+h2{
+  color: rgb(255, 191, 0);
+}
